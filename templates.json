@@ -1,0 +1,2 @@
+{ "tpl":
+    { "dva": { "url": "https://github.com/dvajs/dva.git", "branch": "master" } } }
